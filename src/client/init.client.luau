@@ -1,0 +1,2 @@
+-- Placeholder: client entry point
+-- Ticket 1: confirms src/client syncs to StarterPlayerScripts via Rojo
