@@ -22,3 +22,7 @@ CLAUDE.md
 # Ignore all markdown files except README.md
 *.md
 !README.md
+
+# Luau LSP definitions
+globalTypes.d.luau
+
