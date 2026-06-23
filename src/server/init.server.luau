@@ -1,2 +1,3 @@
+--!strict
 -- Placeholder: server entry point
 -- Ticket 1: confirms src/server syncs to ServerScriptService via Rojo
