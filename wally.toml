@@ -1,0 +1,10 @@
+[package]
+name = "yourname/static"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@^4"
+Janitor = "howmanysmall/janitor@^1"
+TestEZ = "roblox/testez@^0.4"

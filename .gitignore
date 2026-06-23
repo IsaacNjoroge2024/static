@@ -1,0 +1,28 @@
+# Roblox place files (geometry lives in Studio, not Git)
+*.rbxl
+*.rbxlx
+
+# Build artifacts
+build/
+
+# Wally packages (installed locally, not committed)
+Packages/
+
+# Rokit/Aftman tool cache
+.aftman/
+.rokit/
+
+# Luau LSP sourcemap
+sourcemap.json
+
+# IDE / Agent configurations
+.claude/
+CLAUDE.md
+
+# Ignore all markdown files except README.md
+*.md
+!README.md
+
+# Luau LSP definitions
+globalTypes.d.luau
+

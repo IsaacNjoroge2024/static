@@ -1,0 +1,3 @@
+[tools]
+rojo = { version = "7.4.4", author = "rojo-rbx" }
+wally = { version = "0.3.2", author = "upliftgames" }
